@@ -1,0 +1,30 @@
+Designators,Qty,Footprint,Partname,LCSC Part #,Mfr. Part #,Manufacturer,LCSC Link
+"C1, C13, C7",3,0603,1µF,C6266891,TCC0603X5R105M250CT,s,https://www.lcsc.com/product-detail/C6266891.html
+"C10, C11, C12, C14, C2, C4, C5, C6, C9",9,0603,0.1µF,C1590,CL10B104KA8NNNC,s,https://www.lcsc.com/product-detail/C1590.html
+"C3, C8",2,CP_Elec_5x3,22µF,C23289,RVT1V220M0505,s,https://www.lcsc.com/product-detail/C23289.html
+D1,1,D_SMF,SMF5V0A,C1972946,SMF5V0A-E3-08,s,https://www.lcsc.com/product-detail/C1972946.html
+"D10, D13, D15, D3",4,D_SMA,D_Schottky SS34,C154551,SS34,s,https://www.lcsc.com/product-detail/C154551.html
+"D11, D12, D2, D4, D5, D6, D8",7,0603,LED,C2290,KT-0603W,s,https://www.lcsc.com/product-detail/C2290.html
+D18,1,D_MiniMELF,BZV55C3V3,C545323,BZV55C3V3,s,https://www.lcsc.com/product-detail/C545323.html
+"D7, D9",2,D_SMA,D_Schottky SS14,C2480,SS14,s,https://www.lcsc.com/product-detail/C2480.html
+J22,1,J_SD_Card-micro_socket_A,TF-01A,C91145,TF-01A,s,https://www.lcsc.com/product-detail/C91145.html
+"Q1, Q2, Q3, Q7, Q8",5,SOT-23,A49T,C30010,AO3404A,s,https://www.lcsc.com/product-detail/C30010.html
+"Q4, Q5, Q6",3,TO-252-2,LR8726,C81137,IRLR8726TRPBF,s,https://www.lcsc.com/product-detail/C81137.html
+Q9,1,TO-252-2,FDD6685,C10866,FDD6685,s,https://www.lcsc.com/product-detail/C10866.html
+"R1, R2",2,2512,R020,C6966148,RC2512JK-7W20RL,s,https://www.lcsc.com/product-detail/C6966148.html
+"R10, R11, R12, R13, R14, R15, R16, R25, R26, R27, R28, R29, R3, R32, R33, R5, R7, R8, R9",19,0603,10K,C25804,0603WAF1002T5E,s,https://www.lcsc.com/product-detail/C25804.html
+"R17, R18, R19, R20, R21",5,0603,20K,C4184,0603WAF2002T5E,s,https://www.lcsc.com/product-detail/C4184.html
+R22,1,0603,500,C6207671,RT0603BRD07500RL,s,https://www.lcsc.com/product-detail/C6207671.html
+"R23, R6",2,0603,1K,C21190,0603WAF1001T5E,s,https://www.lcsc.com/product-detail/C21190.html
+R24,1,0603,100K,C25803,0603WAF1003T5E,s,https://www.lcsc.com/product-detail/C25803.html
+R4,1,0603,2.7K,C13167,0603WAF2701T5E,s,https://www.lcsc.com/product-detail/C13167.html
+RST1,1,0603,1µF,C6266891,TCC0603X5R105M250CT,s,https://www.lcsc.com/product-detail/C6266891.html
+U1,1,ESP32-WROOM-32,ESP32-WROOM-32D-N16,C529578,ESP32-WROOM-32D-N16,s,https://www.lcsc.com/product-detail/C529578.html
+U10,1,Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering,BMP280,C83291,BMP280,s,https://www.lcsc.com/product-detail/C83291.html
+"U2, U5",2,SOP-16_4.4x10.4mm_P1.27mm,cd4050bms,C507165,CD4050BM/TR,s,https://www.lcsc.com/product-detail/C507165.html
+U3,1,SOIC-8_3.9x4.9mm_P1.27mm,MAX31855KASA,C52028,MAX31855KASA+T,s,https://www.lcsc.com/product-detail/C52028.html
+U4,1,SOT-223-3_TabPin2,AMS1117-3.3,C6186,AMS1117-3.3,s,https://www.lcsc.com/product-detail/C6186.html
+U6,1,SOT-223-3_TabPin2,AMS1117-5.0,C6187,AMS1117-5.0,s,https://www.lcsc.com/product-detail/C6187.html
+U7,1,SOT-23-5,OPA340NA,C49056105,XOPA340NA,s,https://www.lcsc.com/product-detail/C49056105.html
+U8,1,SOT-23,LM4040DBZ-2.5,C2156826,LM4040CIM3-2.5+T,s,https://www.lcsc.com/product-detail/C2156826.html
+U9,1,SOT-23-8,INA219AxDCN,C87469,INA219AIDCNR,s,https://www.lcsc.com/product-detail/C87469.html
